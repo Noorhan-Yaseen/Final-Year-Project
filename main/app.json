@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "ridemate",
+    "slug": "ridemate",
+    "version": "1.0.0",
+    "sdkVersion": "51.0.0",
+    "icon": "app/assets/logo.png",
+    "splash": {
+      "image": "app/assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#FFFFFF"
+    },
+    "platforms": ["ios", "android"],
+    "currentFullName": "@mr.cherry/ridemate",
+    "originalFullName": "@mr.cherry/ridemate"
+  }
+}
+  
