@@ -1,0 +1,21 @@
+{
+    "item": {
+        "__v": 0,
+        "_id": "65eec7665d5f5d5f8d599cd1",
+        "rides": [],
+        "userId": {
+            "__v": 0,
+            "_id": "65eec7665d5f5d5f8d599ccf",
+            "email": "saad@gmail.com",
+            "joined": "2024-03-12T12:02:46.684Z",
+            "name": "Saad",
+            "password": "$2b$10$wG9TnDAK7zG0fC7CjTWJn.EdFUDN.iHXzMMGkFFZXd73cY9P4dztO",
+            "phone_number": "03126097406",
+            "profile_picture": "public\\users\\ce065d7d5bb672b448d58faabe17f0bd",
+            "role": "rider",
+            "verified": true
+        },
+        "vehicle_assigned": false
+    },
+    "new": false
+}
